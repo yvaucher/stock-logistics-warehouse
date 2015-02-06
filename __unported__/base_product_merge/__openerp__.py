@@ -46,6 +46,7 @@ The selected products are deactivated and a new one is created with :
 
 """,
     "website": "http://camptocamp.com",
+    "license": "AGPL-3",
     "depends" : ['product'],
     "init_xml" : [],
     "demo_xml" : [],

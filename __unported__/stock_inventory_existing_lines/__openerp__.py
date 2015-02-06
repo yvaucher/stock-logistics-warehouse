@@ -34,6 +34,7 @@ This module adds a new tab 'Lines' in Physical Inventories with correct lines of
   
      """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
          "stock",
     ],

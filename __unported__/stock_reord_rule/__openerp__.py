@@ -48,6 +48,7 @@ This module doesn't need purchase module to work, but it's useful with that
 module.""",
     'author': 'Sergio Corato',
     'website': 'http://www.icstools.it',
+    'license': 'AGPL-3',
     'depends': ['procurement',
                 'sale',
                 ],

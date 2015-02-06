@@ -32,6 +32,7 @@ And adds fields and buttons to advance in Physical Inventories.
 
 """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
         "stock",
         "stock_barcode_reader",

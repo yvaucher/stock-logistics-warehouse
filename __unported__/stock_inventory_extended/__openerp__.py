@@ -32,6 +32,7 @@ to get all lines pre-filled and all lines scanned
 
 """,
     "website" : "http://www.julius.fr",
+    "license": "AGPL-3",
     "depends" : [
          "stock",
     ],
